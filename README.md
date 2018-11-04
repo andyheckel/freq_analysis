@@ -1,2 +1,2 @@
 # freq_analysis
-Encrypt or decrypt text based on a key you provide. The alphabetical ordering of key characters is used to encrypt the plaintext in blocks.
+Perform basic frequency analysis on a document of encrypted txt. Requires a file "encrypted.txt" to be present in the same directory as this script. 
